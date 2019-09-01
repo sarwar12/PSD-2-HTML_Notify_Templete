@@ -40,13 +40,14 @@
 	<i class="fab fa-apple"> </i>		--> Apple Icon
 ***
 ### You create css/js compressed file::
-	1) minify	--> you need compressd your css/js code, you need third-party website to create a minify (.min) file. 
+	1) minify	--> you need compressd your css/js code, 
+			    you need third-party website to create a minify (.min) file. 
 		https://www.minifier.org/	--> You need Compressed file
 
 	2) unminify  --> it isn't a compressed file
 		https://unminify.com/	--> You need Uncompressed file
 			
-      
+ ***     
       
 ## G SARWAR
 #### Web Instructor
